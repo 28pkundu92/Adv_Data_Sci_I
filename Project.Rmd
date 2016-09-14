@@ -2,9 +2,10 @@
 title: "Project"
 output: html_document
 ---
-_Gail score prediction from facebook profiles_
+**Gail score prediction from facebook profiles**
 
 _Aim_:
+
 1. Infer the variables needed to calculate the gail score for a woman based on her facebook profile.
 2. Predict the gail score and estimate the uncertainity in it due to the inferred variables.
 
