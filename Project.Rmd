@@ -1,0 +1,21 @@
+---
+title: "Project"
+output: html_document
+---
+_Gail score prediction from facebook profiles_
+
+_Aim_:
+1. Infer the variables needed to calculate the gail score for a woman based on her facebook profile.
+2. Predict the gail score and estimate the uncertainity in it due to the inferred variables.
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
